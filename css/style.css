@@ -352,21 +352,21 @@ body {
     margin-left: -20px;
 }
 
-.section2-card {
+.what-we-do-item {
     margin: 20px 0 0 20px;
     flex-basis: calc(100% / 6 - 20px);
 }
 
-.card:nth-child(1) img {
+.what-we-do-item:nth-child(1) img {
     object-fit: fill;
 
 }
 
-.card:nth-child(2) img {
+.what-we-do-item:nth-child(2) img {
     object-fit: fill;
 }
 
-.card:nth-child(3) img {
+.what-we-do-item:nth-child(3) img {
     object-fit: fill;
 }
 

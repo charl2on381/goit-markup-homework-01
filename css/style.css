@@ -414,6 +414,7 @@ body {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 .card>.label,
@@ -486,11 +487,11 @@ body {
     right: 0%;
     top: 0%;
     bottom: 0%;
-
     /* IRIS */
 
     background: #4D5AE5;
 }
+
 
 .footer {
 
